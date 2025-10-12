@@ -1,0 +1,4665 @@
+{
+  "pages": [
+    {
+      "title": "1",
+      "content": [
+        {
+          "word": "Добрый",
+          "type": "word"
+        },
+        {
+          "word": "доктор",
+          "type": "word"
+        },
+        {
+          "word": "Айболит",
+          "type": "word"
+        },
+        {
+          "word": "!",
+          "type": "punctuation"
+        },
+        {
+          "word": "Он",
+          "type": "word"
+        },
+        {
+          "word": "под",
+          "type": "word"
+        },
+        {
+          "word": "деревом",
+          "type": "word"
+        },
+        {
+          "word": "сидит",
+          "type": "word"
+        },
+        {
+          "word": ".",
+          "type": "punctuation"
+        },
+        {
+          "word": "Приходи",
+          "type": "word"
+        },
+        {
+          "word": "к",
+          "type": "word"
+        },
+        {
+          "word": "нему",
+          "type": "word"
+        },
+        {
+          "word": "лечиться",
+          "type": "word"
+        },
+        {
+          "word": "И",
+          "type": "word"
+        },
+        {
+          "word": "корова",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "и",
+          "type": "word"
+        },
+        {
+          "word": "волчица",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        }
+      ]
+    },
+    {
+      "title": "2",
+      "content": [
+        {
+          "word": "И",
+          "type": "word"
+        },
+        {
+          "word": "жучок",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "и",
+          "type": "word"
+        },
+        {
+          "word": "червячок",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "И",
+          "type": "word"
+        },
+        {
+          "word": "медведица",
+          "type": "word"
+        },
+        {
+          "word": "!",
+          "type": "punctuation"
+        },
+        {
+          "word": "Всех",
+          "type": "word"
+        },
+        {
+          "word": "излечит",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "исцелит",
+          "type": "word"
+        },
+        {
+          "word": "Добрый",
+          "type": "word"
+        },
+        {
+          "word": "доктор",
+          "type": "word"
+        },
+        {
+          "word": "Айболит",
+          "type": "word"
+        },
+        {
+          "word": "!",
+          "type": "punctuation"
+        }
+      ]
+    },
+    {
+      "title": "3",
+      "content": [
+        {
+          "word": "И",
+          "type": "word"
+        },
+        {
+          "word": "пришла",
+          "type": "word"
+        },
+        {
+          "word": "к",
+          "type": "word"
+        },
+        {
+          "word": "Айболиту",
+          "type": "word"
+        },
+        {
+          "word": "лиса",
+          "type": "word"
+        },
+        {
+          "word": ":",
+          "type": "punctuation"
+        },
+        {
+          "word": "«",
+          "type": "punctuation"
+        },
+        {
+          "word": "Ой",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "меня",
+          "type": "word"
+        },
+        {
+          "word": "укусила",
+          "type": "word"
+        },
+        {
+          "word": "оса",
+          "type": "word"
+        },
+        {
+          "word": "!",
+          "type": "punctuation"
+        },
+        {
+          "word": "»",
+          "type": "punctuation"
+        },
+        {
+          "word": "И",
+          "type": "word"
+        },
+        {
+          "word": "пришёл",
+          "type": "word"
+        },
+        {
+          "word": "к",
+          "type": "word"
+        },
+        {
+          "word": "Айболиту",
+          "type": "word"
+        },
+        {
+          "word": "барбос",
+          "type": "word"
+        },
+        {
+          "word": ":",
+          "type": "punctuation"
+        },
+        {
+          "word": "«",
+          "type": "punctuation"
+        },
+        {
+          "word": "Меня",
+          "type": "word"
+        },
+        {
+          "word": "курица",
+          "type": "word"
+        },
+        {
+          "word": "клюнула",
+          "type": "word"
+        },
+        {
+          "word": "в",
+          "type": "word"
+        },
+        {
+          "word": "нос",
+          "type": "word"
+        },
+        {
+          "word": "!",
+          "type": "punctuation"
+        },
+        {
+          "word": "»",
+          "type": "punctuation"
+        }
+      ]
+    },
+    {
+      "title": "4",
+      "content": [
+        {
+          "word": "И",
+          "type": "word"
+        },
+        {
+          "word": "прибежала",
+          "type": "word"
+        },
+        {
+          "word": "зайчиха",
+          "type": "word"
+        },
+        {
+          "word": "И",
+          "type": "word"
+        },
+        {
+          "word": "закричала",
+          "type": "word"
+        },
+        {
+          "word": ":",
+          "type": "punctuation"
+        },
+        {
+          "word": "«",
+          "type": "punctuation"
+        },
+        {
+          "word": "Ай",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "ай",
+          "type": "word"
+        },
+        {
+          "word": "!",
+          "type": "punctuation"
+        },
+        {
+          "word": "Мой",
+          "type": "word"
+        },
+        {
+          "word": "зайчик",
+          "type": "word"
+        },
+        {
+          "word": "попал",
+          "type": "word"
+        },
+        {
+          "word": "под",
+          "type": "word"
+        },
+        {
+          "word": "трамвай",
+          "type": "word"
+        },
+        {
+          "word": "!",
+          "type": "punctuation"
+        },
+        {
+          "word": "Мой",
+          "type": "word"
+        },
+        {
+          "word": "зайчик",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "мой",
+          "type": "word"
+        },
+        {
+          "word": "мальчик",
+          "type": "word"
+        },
+        {
+          "word": "Попал",
+          "type": "word"
+        },
+        {
+          "word": "под",
+          "type": "word"
+        },
+        {
+          "word": "трамвай",
+          "type": "word"
+        },
+        {
+          "word": "!",
+          "type": "punctuation"
+        }
+      ]
+    },
+    {
+      "title": "5",
+      "content": [
+        {
+          "word": "Он",
+          "type": "word"
+        },
+        {
+          "word": "бежал",
+          "type": "word"
+        },
+        {
+          "word": "по",
+          "type": "word"
+        },
+        {
+          "word": "дорожке",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "И",
+          "type": "word"
+        },
+        {
+          "word": "ему",
+          "type": "word"
+        },
+        {
+          "word": "перерезало",
+          "type": "word"
+        },
+        {
+          "word": "ножки",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "И",
+          "type": "word"
+        },
+        {
+          "word": "теперь",
+          "type": "word"
+        },
+        {
+          "word": "он",
+          "type": "word"
+        },
+        {
+          "word": "больной",
+          "type": "word"
+        },
+        {
+          "word": "и",
+          "type": "word"
+        },
+        {
+          "word": "хромой",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "Маленький",
+          "type": "word"
+        },
+        {
+          "word": "заинька",
+          "type": "word"
+        },
+        {
+          "word": "мой",
+          "type": "word"
+        },
+        {
+          "word": "!",
+          "type": "punctuation"
+        },
+        {
+          "word": "»",
+          "type": "punctuation"
+        }
+      ]
+    },
+    {
+      "title": "6",
+      "content": [
+        {
+          "word": "И",
+          "type": "word"
+        },
+        {
+          "word": "сказал",
+          "type": "word"
+        },
+        {
+          "word": "Айболит",
+          "type": "word"
+        },
+        {
+          "word": ":",
+          "type": "punctuation"
+        },
+        {
+          "word": "«",
+          "type": "punctuation"
+        },
+        {
+          "word": "Не",
+          "type": "word"
+        },
+        {
+          "word": "беда",
+          "type": "word"
+        },
+        {
+          "word": "!",
+          "type": "punctuation"
+        },
+        {
+          "word": "Подавай",
+          "type": "word"
+        },
+        {
+          "word": "-",
+          "type": "punctuation"
+        },
+        {
+          "word": "ка",
+          "type": "word"
+        },
+        {
+          "word": "его",
+          "type": "word"
+        },
+        {
+          "word": "сюда",
+          "type": "word"
+        },
+        {
+          "word": "!",
+          "type": "punctuation"
+        },
+        {
+          "word": "Я",
+          "type": "word"
+        },
+        {
+          "word": "пришью",
+          "type": "word"
+        },
+        {
+          "word": "ему",
+          "type": "word"
+        },
+        {
+          "word": "новые",
+          "type": "word"
+        },
+        {
+          "word": "ножки",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "Он",
+          "type": "word"
+        },
+        {
+          "word": "опять",
+          "type": "word"
+        },
+        {
+          "word": "побежит",
+          "type": "word"
+        },
+        {
+          "word": "по",
+          "type": "word"
+        },
+        {
+          "word": "дорожке",
+          "type": "word"
+        },
+        {
+          "word": "»",
+          "type": "punctuation"
+        },
+        {
+          "word": ".",
+          "type": "punctuation"
+        }
+      ]
+    },
+    {
+      "title": "7",
+      "content": [
+        {
+          "word": "И",
+          "type": "word"
+        },
+        {
+          "word": "принесли",
+          "type": "word"
+        },
+        {
+          "word": "к",
+          "type": "word"
+        },
+        {
+          "word": "нему",
+          "type": "word"
+        },
+        {
+          "word": "зайку",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "Такого",
+          "type": "word"
+        },
+        {
+          "word": "больного",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "хромого",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "И",
+          "type": "word"
+        },
+        {
+          "word": "доктор",
+          "type": "word"
+        },
+        {
+          "word": "пришил",
+          "type": "word"
+        },
+        {
+          "word": "ему",
+          "type": "word"
+        },
+        {
+          "word": "ножки",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "И",
+          "type": "word"
+        },
+        {
+          "word": "заинька",
+          "type": "word"
+        },
+        {
+          "word": "прыгает",
+          "type": "word"
+        },
+        {
+          "word": "снова",
+          "type": "word"
+        },
+        {
+          "word": ".",
+          "type": "punctuation"
+        }
+      ]
+    },
+    {
+      "title": "8",
+      "content": [
+        {
+          "word": "А",
+          "type": "word"
+        },
+        {
+          "word": "с",
+          "type": "word"
+        },
+        {
+          "word": "ним",
+          "type": "word"
+        },
+        {
+          "word": "и",
+          "type": "word"
+        },
+        {
+          "word": "зайчиха",
+          "type": "word"
+        },
+        {
+          "word": "-",
+          "type": "punctuation"
+        },
+        {
+          "word": "мать",
+          "type": "word"
+        },
+        {
+          "word": "Тоже",
+          "type": "word"
+        },
+        {
+          "word": "пошла",
+          "type": "word"
+        },
+        {
+          "word": "танцевать",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "И",
+          "type": "word"
+        },
+        {
+          "word": "смеётся",
+          "type": "word"
+        },
+        {
+          "word": "она",
+          "type": "word"
+        },
+        {
+          "word": "и",
+          "type": "word"
+        },
+        {
+          "word": "кричит",
+          "type": "word"
+        },
+        {
+          "word": ":",
+          "type": "punctuation"
+        },
+        {
+          "word": "«",
+          "type": "punctuation"
+        },
+        {
+          "word": "Ну",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "спасибо",
+          "type": "word"
+        },
+        {
+          "word": "тебе",
+          "type": "word"
+        },
+        {
+          "word": ".",
+          "type": "punctuation"
+        },
+        {
+          "word": "Айболит",
+          "type": "word"
+        },
+        {
+          "word": "!",
+          "type": "punctuation"
+        },
+        {
+          "word": "»",
+          "type": "punctuation"
+        }
+      ]
+    },
+    {
+      "title": "9",
+      "content": [
+        {
+          "word": "Вдруг",
+          "type": "word"
+        },
+        {
+          "word": "откуда",
+          "type": "word"
+        },
+        {
+          "word": "-",
+          "type": "punctuation"
+        },
+        {
+          "word": "то",
+          "type": "word"
+        },
+        {
+          "word": "шакал",
+          "type": "word"
+        },
+        {
+          "word": "На",
+          "type": "word"
+        },
+        {
+          "word": "кобыле",
+          "type": "word"
+        },
+        {
+          "word": "прискакал",
+          "type": "word"
+        },
+        {
+          "word": ":",
+          "type": "punctuation"
+        },
+        {
+          "word": "«",
+          "type": "punctuation"
+        },
+        {
+          "word": "Вот",
+          "type": "word"
+        },
+        {
+          "word": "вам",
+          "type": "word"
+        },
+        {
+          "word": "телеграмма",
+          "type": "word"
+        },
+        {
+          "word": "От",
+          "type": "word"
+        },
+        {
+          "word": "Гиппопотама",
+          "type": "word"
+        },
+        {
+          "word": "!",
+          "type": "punctuation"
+        },
+        {
+          "word": "»",
+          "type": "punctuation"
+        }
+      ]
+    },
+    {
+      "title": "10",
+      "content": [
+        {
+          "word": "«",
+          "type": "punctuation"
+        },
+        {
+          "word": "Приезжайте",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "доктор",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "В",
+          "type": "word"
+        },
+        {
+          "word": "Африку",
+          "type": "word"
+        },
+        {
+          "word": "скорей",
+          "type": "word"
+        },
+        {
+          "word": "И",
+          "type": "word"
+        },
+        {
+          "word": "спасите",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "доктор",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "Наших",
+          "type": "word"
+        },
+        {
+          "word": "малышей",
+          "type": "word"
+        },
+        {
+          "word": "!",
+          "type": "punctuation"
+        },
+        {
+          "word": "»",
+          "type": "punctuation"
+        }
+      ]
+    },
+    {
+      "title": "11",
+      "content": [
+        {
+          "word": "«",
+          "type": "punctuation"
+        },
+        {
+          "word": "Что",
+          "type": "word"
+        },
+        {
+          "word": "такое",
+          "type": "word"
+        },
+        {
+          "word": "?",
+          "type": "punctuation"
+        },
+        {
+          "word": "Неужели",
+          "type": "word"
+        },
+        {
+          "word": "Ваши",
+          "type": "word"
+        },
+        {
+          "word": "дети",
+          "type": "word"
+        },
+        {
+          "word": "заболели",
+          "type": "word"
+        },
+        {
+          "word": "?",
+          "type": "punctuation"
+        },
+        {
+          "word": "»",
+          "type": "punctuation"
+        },
+        {
+          "word": "«",
+          "type": "punctuation"
+        },
+        {
+          "word": "Да",
+          "type": "word"
+        },
+        {
+          "word": "-",
+          "type": "punctuation"
+        },
+        {
+          "word": "да",
+          "type": "word"
+        },
+        {
+          "word": "-",
+          "type": "punctuation"
+        },
+        {
+          "word": "да",
+          "type": "word"
+        },
+        {
+          "word": "!",
+          "type": "punctuation"
+        },
+        {
+          "word": "У",
+          "type": "word"
+        },
+        {
+          "word": "них",
+          "type": "word"
+        },
+        {
+          "word": "ангина",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "Скарлатина",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "холерина",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        }
+      ]
+    },
+    {
+      "title": "12",
+      "content": [
+        {
+          "word": "Дифтерит",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "аппендицит",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "Малярия",
+          "type": "word"
+        },
+        {
+          "word": "и",
+          "type": "word"
+        },
+        {
+          "word": "бронхит",
+          "type": "word"
+        },
+        {
+          "word": "!",
+          "type": "punctuation"
+        },
+        {
+          "word": "Приходите",
+          "type": "word"
+        },
+        {
+          "word": "же",
+          "type": "word"
+        },
+        {
+          "word": "скорее",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "Добрый",
+          "type": "word"
+        },
+        {
+          "word": "доктор",
+          "type": "word"
+        },
+        {
+          "word": "Айболит",
+          "type": "word"
+        },
+        {
+          "word": "!",
+          "type": "punctuation"
+        },
+        {
+          "word": "»",
+          "type": "punctuation"
+        }
+      ]
+    },
+    {
+      "title": "13",
+      "content": [
+        {
+          "word": "«",
+          "type": "punctuation"
+        },
+        {
+          "word": "Ладно",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "ладно",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "побегу",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "Вашим",
+          "type": "word"
+        },
+        {
+          "word": "детям",
+          "type": "word"
+        },
+        {
+          "word": "помогу",
+          "type": "word"
+        },
+        {
+          "word": ".",
+          "type": "punctuation"
+        },
+        {
+          "word": "Только",
+          "type": "word"
+        },
+        {
+          "word": "где",
+          "type": "word"
+        },
+        {
+          "word": "же",
+          "type": "word"
+        },
+        {
+          "word": "вы",
+          "type": "word"
+        },
+        {
+          "word": "живёте",
+          "type": "word"
+        },
+        {
+          "word": "?",
+          "type": "punctuation"
+        },
+        {
+          "word": "На",
+          "type": "word"
+        },
+        {
+          "word": "горе",
+          "type": "word"
+        },
+        {
+          "word": "или",
+          "type": "word"
+        },
+        {
+          "word": "в",
+          "type": "word"
+        },
+        {
+          "word": "болоте",
+          "type": "word"
+        },
+        {
+          "word": "?",
+          "type": "punctuation"
+        },
+        {
+          "word": "»",
+          "type": "punctuation"
+        }
+      ]
+    },
+    {
+      "title": "14",
+      "content": [
+        {
+          "word": "«",
+          "type": "punctuation"
+        },
+        {
+          "word": "Мы",
+          "type": "word"
+        },
+        {
+          "word": "живём",
+          "type": "word"
+        },
+        {
+          "word": "на",
+          "type": "word"
+        },
+        {
+          "word": "Занзибаре",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "В",
+          "type": "word"
+        },
+        {
+          "word": "Калахари",
+          "type": "word"
+        },
+        {
+          "word": "и",
+          "type": "word"
+        },
+        {
+          "word": "Сахаре",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "На",
+          "type": "word"
+        },
+        {
+          "word": "горе",
+          "type": "word"
+        },
+        {
+          "word": "Фернандо",
+          "type": "word"
+        },
+        {
+          "word": "-",
+          "type": "punctuation"
+        },
+        {
+          "word": "По",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "Где",
+          "type": "word"
+        },
+        {
+          "word": "гуляет",
+          "type": "word"
+        },
+        {
+          "word": "Гиппо",
+          "type": "word"
+        },
+        {
+          "word": "-",
+          "type": "punctuation"
+        },
+        {
+          "word": "по",
+          "type": "word"
+        },
+        {
+          "word": "По",
+          "type": "word"
+        },
+        {
+          "word": "широкой",
+          "type": "word"
+        },
+        {
+          "word": "Лимпопо",
+          "type": "word"
+        },
+        {
+          "word": "»",
+          "type": "punctuation"
+        },
+        {
+          "word": ".",
+          "type": "punctuation"
+        }
+      ]
+    },
+    {
+      "title": "15",
+      "content": [
+        {
+          "word": "И",
+          "type": "word"
+        },
+        {
+          "word": "встал",
+          "type": "word"
+        },
+        {
+          "word": "Айболит",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "побежал",
+          "type": "word"
+        },
+        {
+          "word": "Айболит",
+          "type": "word"
+        },
+        {
+          "word": ".",
+          "type": "punctuation"
+        },
+        {
+          "word": "По",
+          "type": "word"
+        },
+        {
+          "word": "полям",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "но",
+          "type": "word"
+        },
+        {
+          "word": "лесам",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "по",
+          "type": "word"
+        },
+        {
+          "word": "лугам",
+          "type": "word"
+        },
+        {
+          "word": "он",
+          "type": "word"
+        },
+        {
+          "word": "бежит",
+          "type": "word"
+        },
+        {
+          "word": ".",
+          "type": "punctuation"
+        },
+        {
+          "word": "И",
+          "type": "word"
+        },
+        {
+          "word": "одно",
+          "type": "word"
+        },
+        {
+          "word": "только",
+          "type": "word"
+        },
+        {
+          "word": "слово",
+          "type": "word"
+        },
+        {
+          "word": "твердит",
+          "type": "word"
+        },
+        {
+          "word": "Айболит",
+          "type": "word"
+        },
+        {
+          "word": ":",
+          "type": "punctuation"
+        },
+        {
+          "word": "«",
+          "type": "punctuation"
+        },
+        {
+          "word": "Лимпопо",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "Лимпопо",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "Лимпопо",
+          "type": "word"
+        },
+        {
+          "word": "!",
+          "type": "punctuation"
+        },
+        {
+          "word": "»",
+          "type": "punctuation"
+        }
+      ]
+    },
+    {
+      "title": "16",
+      "content": [
+        {
+          "word": "А",
+          "type": "word"
+        },
+        {
+          "word": "в",
+          "type": "word"
+        },
+        {
+          "word": "лицо",
+          "type": "word"
+        },
+        {
+          "word": "ему",
+          "type": "word"
+        },
+        {
+          "word": "ветер",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "и",
+          "type": "word"
+        },
+        {
+          "word": "снег",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "и",
+          "type": "word"
+        },
+        {
+          "word": "град",
+          "type": "word"
+        },
+        {
+          "word": ":",
+          "type": "punctuation"
+        },
+        {
+          "word": "«",
+          "type": "punctuation"
+        },
+        {
+          "word": "Эй",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "Айболит",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "воротися",
+          "type": "word"
+        },
+        {
+          "word": "назад",
+          "type": "word"
+        },
+        {
+          "word": "!",
+          "type": "punctuation"
+        },
+        {
+          "word": "»",
+          "type": "punctuation"
+        },
+        {
+          "word": "И",
+          "type": "word"
+        },
+        {
+          "word": "упал",
+          "type": "word"
+        },
+        {
+          "word": "Айболит",
+          "type": "word"
+        },
+        {
+          "word": "и",
+          "type": "word"
+        },
+        {
+          "word": "лежит",
+          "type": "word"
+        },
+        {
+          "word": "на",
+          "type": "word"
+        },
+        {
+          "word": "снегу",
+          "type": "word"
+        },
+        {
+          "word": ":",
+          "type": "punctuation"
+        },
+        {
+          "word": "«",
+          "type": "punctuation"
+        },
+        {
+          "word": "Я",
+          "type": "word"
+        },
+        {
+          "word": "дальше",
+          "type": "word"
+        },
+        {
+          "word": "идти",
+          "type": "word"
+        },
+        {
+          "word": "не",
+          "type": "word"
+        },
+        {
+          "word": "могу",
+          "type": "word"
+        },
+        {
+          "word": "»",
+          "type": "punctuation"
+        },
+        {
+          "word": ".",
+          "type": "punctuation"
+        }
+      ]
+    },
+    {
+      "title": "17",
+      "content": [
+        {
+          "word": "И",
+          "type": "word"
+        },
+        {
+          "word": "сейчас",
+          "type": "word"
+        },
+        {
+          "word": "же",
+          "type": "word"
+        },
+        {
+          "word": "к",
+          "type": "word"
+        },
+        {
+          "word": "нему",
+          "type": "word"
+        },
+        {
+          "word": "из",
+          "type": "word"
+        },
+        {
+          "word": "-",
+          "type": "punctuation"
+        },
+        {
+          "word": "за",
+          "type": "word"
+        },
+        {
+          "word": "ёлки",
+          "type": "word"
+        },
+        {
+          "word": "Выбегают",
+          "type": "word"
+        },
+        {
+          "word": "мохнатые",
+          "type": "word"
+        },
+        {
+          "word": "волки",
+          "type": "word"
+        },
+        {
+          "word": ":",
+          "type": "punctuation"
+        },
+        {
+          "word": "«",
+          "type": "punctuation"
+        },
+        {
+          "word": "Садись",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "Айболит",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "верхом",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "Мы",
+          "type": "word"
+        },
+        {
+          "word": "живо",
+          "type": "word"
+        },
+        {
+          "word": "тебя",
+          "type": "word"
+        },
+        {
+          "word": "довезём",
+          "type": "word"
+        },
+        {
+          "word": "!",
+          "type": "punctuation"
+        },
+        {
+          "word": "»",
+          "type": "punctuation"
+        }
+      ]
+    },
+    {
+      "title": "18",
+      "content": [
+        {
+          "word": "И",
+          "type": "word"
+        },
+        {
+          "word": "вперёд",
+          "type": "word"
+        },
+        {
+          "word": "поскакал",
+          "type": "word"
+        },
+        {
+          "word": "Айболит",
+          "type": "word"
+        },
+        {
+          "word": "И",
+          "type": "word"
+        },
+        {
+          "word": "одно",
+          "type": "word"
+        },
+        {
+          "word": "только",
+          "type": "word"
+        },
+        {
+          "word": "слово",
+          "type": "word"
+        },
+        {
+          "word": "твердит",
+          "type": "word"
+        },
+        {
+          "word": ":",
+          "type": "punctuation"
+        },
+        {
+          "word": "«",
+          "type": "punctuation"
+        },
+        {
+          "word": "Лимпопо",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "Лимпопо",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "Лимпопо",
+          "type": "word"
+        },
+        {
+          "word": "!",
+          "type": "punctuation"
+        },
+        {
+          "word": "»",
+          "type": "punctuation"
+        }
+      ]
+    },
+    {
+      "title": "19",
+      "content": [
+        {
+          "word": "Но",
+          "type": "word"
+        },
+        {
+          "word": "вот",
+          "type": "word"
+        },
+        {
+          "word": "перед",
+          "type": "word"
+        },
+        {
+          "word": "ними",
+          "type": "word"
+        },
+        {
+          "word": "море",
+          "type": "word"
+        },
+        {
+          "word": "—",
+          "type": "punctuation"
+        },
+        {
+          "word": "Бушует",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "шумит",
+          "type": "word"
+        },
+        {
+          "word": "на",
+          "type": "word"
+        },
+        {
+          "word": "просторе",
+          "type": "word"
+        },
+        {
+          "word": ".",
+          "type": "punctuation"
+        },
+        {
+          "word": "А",
+          "type": "word"
+        },
+        {
+          "word": "в",
+          "type": "word"
+        },
+        {
+          "word": "море",
+          "type": "word"
+        },
+        {
+          "word": "высокая",
+          "type": "word"
+        },
+        {
+          "word": "ходит",
+          "type": "word"
+        },
+        {
+          "word": "волна",
+          "type": "word"
+        },
+        {
+          "word": ".",
+          "type": "punctuation"
+        },
+        {
+          "word": "Сейчас",
+          "type": "word"
+        },
+        {
+          "word": "Айболита",
+          "type": "word"
+        },
+        {
+          "word": "проглотит",
+          "type": "word"
+        },
+        {
+          "word": "она",
+          "type": "word"
+        },
+        {
+          "word": ".",
+          "type": "punctuation"
+        }
+      ]
+    },
+    {
+      "title": "20",
+      "content": [
+        {
+          "word": "«",
+          "type": "punctuation"
+        },
+        {
+          "word": "О",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "если",
+          "type": "word"
+        },
+        {
+          "word": "я",
+          "type": "word"
+        },
+        {
+          "word": "утону",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "Если",
+          "type": "word"
+        },
+        {
+          "word": "пойду",
+          "type": "word"
+        },
+        {
+          "word": "я",
+          "type": "word"
+        },
+        {
+          "word": "ко",
+          "type": "word"
+        },
+        {
+          "word": "дну",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "Что",
+          "type": "word"
+        },
+        {
+          "word": "станется",
+          "type": "word"
+        },
+        {
+          "word": "с",
+          "type": "word"
+        },
+        {
+          "word": "ними",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "с",
+          "type": "word"
+        },
+        {
+          "word": "больными",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "С",
+          "type": "word"
+        },
+        {
+          "word": "моими",
+          "type": "word"
+        },
+        {
+          "word": "зверями",
+          "type": "word"
+        },
+        {
+          "word": "лесными",
+          "type": "word"
+        },
+        {
+          "word": "?",
+          "type": "punctuation"
+        },
+        {
+          "word": "»",
+          "type": "punctuation"
+        }
+      ]
+    },
+    {
+      "title": "21",
+      "content": [
+        {
+          "word": "Но",
+          "type": "word"
+        },
+        {
+          "word": "тут",
+          "type": "word"
+        },
+        {
+          "word": "выплывает",
+          "type": "word"
+        },
+        {
+          "word": "кит",
+          "type": "word"
+        },
+        {
+          "word": ":",
+          "type": "punctuation"
+        },
+        {
+          "word": "«",
+          "type": "punctuation"
+        },
+        {
+          "word": "Садись",
+          "type": "word"
+        },
+        {
+          "word": "на",
+          "type": "word"
+        },
+        {
+          "word": "меня",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "Айболит",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "И",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "как",
+          "type": "word"
+        },
+        {
+          "word": "большой",
+          "type": "word"
+        },
+        {
+          "word": "пароход",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "Тебя",
+          "type": "word"
+        },
+        {
+          "word": "повезу",
+          "type": "word"
+        },
+        {
+          "word": "я",
+          "type": "word"
+        },
+        {
+          "word": "вперёд",
+          "type": "word"
+        },
+        {
+          "word": "!",
+          "type": "punctuation"
+        },
+        {
+          "word": "»",
+          "type": "punctuation"
+        }
+      ]
+    },
+    {
+      "title": "22",
+      "content": [
+        {
+          "word": "И",
+          "type": "word"
+        },
+        {
+          "word": "сел",
+          "type": "word"
+        },
+        {
+          "word": "на",
+          "type": "word"
+        },
+        {
+          "word": "кита",
+          "type": "word"
+        },
+        {
+          "word": "Айболит",
+          "type": "word"
+        },
+        {
+          "word": "И",
+          "type": "word"
+        },
+        {
+          "word": "одно",
+          "type": "word"
+        },
+        {
+          "word": "только",
+          "type": "word"
+        },
+        {
+          "word": "слово",
+          "type": "word"
+        },
+        {
+          "word": "твердит",
+          "type": "word"
+        },
+        {
+          "word": ":",
+          "type": "punctuation"
+        },
+        {
+          "word": "«",
+          "type": "punctuation"
+        },
+        {
+          "word": "Лимпопо",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "Лимпопо",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "Лимпопо",
+          "type": "word"
+        },
+        {
+          "word": "!",
+          "type": "punctuation"
+        },
+        {
+          "word": "»",
+          "type": "punctuation"
+        }
+      ]
+    },
+    {
+      "title": "23",
+      "content": [
+        {
+          "word": "И",
+          "type": "word"
+        },
+        {
+          "word": "горы",
+          "type": "word"
+        },
+        {
+          "word": "встают",
+          "type": "word"
+        },
+        {
+          "word": "перед",
+          "type": "word"
+        },
+        {
+          "word": "ним",
+          "type": "word"
+        },
+        {
+          "word": "на",
+          "type": "word"
+        },
+        {
+          "word": "пути",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "И",
+          "type": "word"
+        },
+        {
+          "word": "он",
+          "type": "word"
+        },
+        {
+          "word": "по",
+          "type": "word"
+        },
+        {
+          "word": "горам",
+          "type": "word"
+        },
+        {
+          "word": "начинает",
+          "type": "word"
+        },
+        {
+          "word": "ползти",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "А",
+          "type": "word"
+        },
+        {
+          "word": "горы",
+          "type": "word"
+        },
+        {
+          "word": "всё",
+          "type": "word"
+        },
+        {
+          "word": "выше",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "а",
+          "type": "word"
+        },
+        {
+          "word": "горы",
+          "type": "word"
+        },
+        {
+          "word": "всё",
+          "type": "word"
+        },
+        {
+          "word": "круче",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "А",
+          "type": "word"
+        },
+        {
+          "word": "горы",
+          "type": "word"
+        },
+        {
+          "word": "уходят",
+          "type": "word"
+        },
+        {
+          "word": "под",
+          "type": "word"
+        },
+        {
+          "word": "самые",
+          "type": "word"
+        },
+        {
+          "word": "тучи",
+          "type": "word"
+        },
+        {
+          "word": "!",
+          "type": "punctuation"
+        }
+      ]
+    },
+    {
+      "title": "24",
+      "content": [
+        {
+          "word": "«",
+          "type": "punctuation"
+        },
+        {
+          "word": "О",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "если",
+          "type": "word"
+        },
+        {
+          "word": "я",
+          "type": "word"
+        },
+        {
+          "word": "не",
+          "type": "word"
+        },
+        {
+          "word": "дойду",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "Если",
+          "type": "word"
+        },
+        {
+          "word": "в",
+          "type": "word"
+        },
+        {
+          "word": "пути",
+          "type": "word"
+        },
+        {
+          "word": "пропаду",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "Что",
+          "type": "word"
+        },
+        {
+          "word": "станется",
+          "type": "word"
+        },
+        {
+          "word": "с",
+          "type": "word"
+        },
+        {
+          "word": "ними",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "с",
+          "type": "word"
+        },
+        {
+          "word": "больными",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "С",
+          "type": "word"
+        },
+        {
+          "word": "моими",
+          "type": "word"
+        },
+        {
+          "word": "зверями",
+          "type": "word"
+        },
+        {
+          "word": "лесными",
+          "type": "word"
+        },
+        {
+          "word": "?",
+          "type": "punctuation"
+        },
+        {
+          "word": "»",
+          "type": "punctuation"
+        }
+      ]
+    },
+    {
+      "title": "25",
+      "content": [
+        {
+          "word": "И",
+          "type": "word"
+        },
+        {
+          "word": "сейчас",
+          "type": "word"
+        },
+        {
+          "word": "же",
+          "type": "word"
+        },
+        {
+          "word": "с",
+          "type": "word"
+        },
+        {
+          "word": "высокой",
+          "type": "word"
+        },
+        {
+          "word": "скалы",
+          "type": "word"
+        },
+        {
+          "word": "К",
+          "type": "word"
+        },
+        {
+          "word": "Айболиту",
+          "type": "word"
+        },
+        {
+          "word": "слетели",
+          "type": "word"
+        },
+        {
+          "word": "орлы",
+          "type": "word"
+        },
+        {
+          "word": ":",
+          "type": "punctuation"
+        },
+        {
+          "word": "«",
+          "type": "punctuation"
+        },
+        {
+          "word": "Садись",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "Айболит",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "верхом",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "Мы",
+          "type": "word"
+        },
+        {
+          "word": "живо",
+          "type": "word"
+        },
+        {
+          "word": "тебя",
+          "type": "word"
+        },
+        {
+          "word": "довезём",
+          "type": "word"
+        },
+        {
+          "word": "!",
+          "type": "punctuation"
+        },
+        {
+          "word": "»",
+          "type": "punctuation"
+        }
+      ]
+    },
+    {
+      "title": "26",
+      "content": [
+        {
+          "word": "И",
+          "type": "word"
+        },
+        {
+          "word": "сел",
+          "type": "word"
+        },
+        {
+          "word": "на",
+          "type": "word"
+        },
+        {
+          "word": "орла",
+          "type": "word"
+        },
+        {
+          "word": "Айболит",
+          "type": "word"
+        },
+        {
+          "word": "И",
+          "type": "word"
+        },
+        {
+          "word": "одно",
+          "type": "word"
+        },
+        {
+          "word": "только",
+          "type": "word"
+        },
+        {
+          "word": "слово",
+          "type": "word"
+        },
+        {
+          "word": "твердит",
+          "type": "word"
+        },
+        {
+          "word": ":",
+          "type": "punctuation"
+        },
+        {
+          "word": "«",
+          "type": "punctuation"
+        },
+        {
+          "word": "Лимпопо",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "Лимпопо",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "Лимпопо",
+          "type": "word"
+        },
+        {
+          "word": "!",
+          "type": "punctuation"
+        },
+        {
+          "word": "»",
+          "type": "punctuation"
+        }
+      ]
+    },
+    {
+      "title": "27",
+      "content": [
+        {
+          "word": "А",
+          "type": "word"
+        },
+        {
+          "word": "в",
+          "type": "word"
+        },
+        {
+          "word": "Африке",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "А",
+          "type": "word"
+        },
+        {
+          "word": "в",
+          "type": "word"
+        },
+        {
+          "word": "Африке",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "На",
+          "type": "word"
+        },
+        {
+          "word": "чёрной",
+          "type": "word"
+        },
+        {
+          "word": "Лимпопо",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "Сидит",
+          "type": "word"
+        },
+        {
+          "word": "и",
+          "type": "word"
+        },
+        {
+          "word": "плачет",
+          "type": "word"
+        },
+        {
+          "word": "В",
+          "type": "word"
+        },
+        {
+          "word": "Африке",
+          "type": "word"
+        },
+        {
+          "word": "Печальный",
+          "type": "word"
+        },
+        {
+          "word": "Гиппопо",
+          "type": "word"
+        },
+        {
+          "word": ".",
+          "type": "punctuation"
+        }
+      ]
+    },
+    {
+      "title": "28",
+      "content": [
+        {
+          "word": "Он",
+          "type": "word"
+        },
+        {
+          "word": "в",
+          "type": "word"
+        },
+        {
+          "word": "Африке",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "он",
+          "type": "word"
+        },
+        {
+          "word": "в",
+          "type": "word"
+        },
+        {
+          "word": "Африке",
+          "type": "word"
+        },
+        {
+          "word": "Под",
+          "type": "word"
+        },
+        {
+          "word": "пальмою",
+          "type": "word"
+        },
+        {
+          "word": "сидит",
+          "type": "word"
+        },
+        {
+          "word": "И",
+          "type": "word"
+        },
+        {
+          "word": "на",
+          "type": "word"
+        },
+        {
+          "word": "море",
+          "type": "word"
+        },
+        {
+          "word": "из",
+          "type": "word"
+        },
+        {
+          "word": "Африки",
+          "type": "word"
+        },
+        {
+          "word": "Без",
+          "type": "word"
+        },
+        {
+          "word": "отдыха",
+          "type": "word"
+        },
+        {
+          "word": "глядит",
+          "type": "word"
+        },
+        {
+          "word": ":",
+          "type": "punctuation"
+        },
+        {
+          "word": "Не",
+          "type": "word"
+        },
+        {
+          "word": "едет",
+          "type": "word"
+        },
+        {
+          "word": "ли",
+          "type": "word"
+        },
+        {
+          "word": "в",
+          "type": "word"
+        },
+        {
+          "word": "кораблике",
+          "type": "word"
+        },
+        {
+          "word": "Доктор",
+          "type": "word"
+        },
+        {
+          "word": "Айболит",
+          "type": "word"
+        },
+        {
+          "word": "?",
+          "type": "punctuation"
+        }
+      ]
+    },
+    {
+      "title": "29",
+      "content": [
+        {
+          "word": "И",
+          "type": "word"
+        },
+        {
+          "word": "рыщут",
+          "type": "word"
+        },
+        {
+          "word": "по",
+          "type": "word"
+        },
+        {
+          "word": "дороге",
+          "type": "word"
+        },
+        {
+          "word": "Слоны",
+          "type": "word"
+        },
+        {
+          "word": "и",
+          "type": "word"
+        },
+        {
+          "word": "носороги",
+          "type": "word"
+        },
+        {
+          "word": "И",
+          "type": "word"
+        },
+        {
+          "word": "говорят",
+          "type": "word"
+        },
+        {
+          "word": "сердито",
+          "type": "word"
+        },
+        {
+          "word": ":",
+          "type": "punctuation"
+        },
+        {
+          "word": "«",
+          "type": "punctuation"
+        },
+        {
+          "word": "Что",
+          "type": "word"
+        },
+        {
+          "word": "ж",
+          "type": "word"
+        },
+        {
+          "word": "нету",
+          "type": "word"
+        },
+        {
+          "word": "Айболита",
+          "type": "word"
+        },
+        {
+          "word": "?",
+          "type": "punctuation"
+        },
+        {
+          "word": "»",
+          "type": "punctuation"
+        }
+      ]
+    },
+    {
+      "title": "30",
+      "content": [
+        {
+          "word": "А",
+          "type": "word"
+        },
+        {
+          "word": "рядом",
+          "type": "word"
+        },
+        {
+          "word": "бегемотики",
+          "type": "word"
+        },
+        {
+          "word": "Схватились",
+          "type": "word"
+        },
+        {
+          "word": "за",
+          "type": "word"
+        },
+        {
+          "word": "животики",
+          "type": "word"
+        },
+        {
+          "word": ":",
+          "type": "punctuation"
+        },
+        {
+          "word": "У",
+          "type": "word"
+        },
+        {
+          "word": "них",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "у",
+          "type": "word"
+        },
+        {
+          "word": "бегемотиков",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "Животики",
+          "type": "word"
+        },
+        {
+          "word": "болят",
+          "type": "word"
+        },
+        {
+          "word": ".",
+          "type": "punctuation"
+        }
+      ]
+    },
+    {
+      "title": "31",
+      "content": [
+        {
+          "word": "И",
+          "type": "word"
+        },
+        {
+          "word": "тут",
+          "type": "word"
+        },
+        {
+          "word": "же",
+          "type": "word"
+        },
+        {
+          "word": "страусята",
+          "type": "word"
+        },
+        {
+          "word": "Визжат",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "как",
+          "type": "word"
+        },
+        {
+          "word": "поросята",
+          "type": "word"
+        },
+        {
+          "word": ".",
+          "type": "punctuation"
+        },
+        {
+          "word": "Ах",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "жалко",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "жалко",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "жалко",
+          "type": "word"
+        },
+        {
+          "word": "Бедных",
+          "type": "word"
+        },
+        {
+          "word": "страусят",
+          "type": "word"
+        },
+        {
+          "word": "!",
+          "type": "punctuation"
+        }
+      ]
+    },
+    {
+      "title": "32",
+      "content": [
+        {
+          "word": "И",
+          "type": "word"
+        },
+        {
+          "word": "корь",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "и",
+          "type": "word"
+        },
+        {
+          "word": "дифтерит",
+          "type": "word"
+        },
+        {
+          "word": "у",
+          "type": "word"
+        },
+        {
+          "word": "них",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "И",
+          "type": "word"
+        },
+        {
+          "word": "оспа",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "и",
+          "type": "word"
+        },
+        {
+          "word": "бронхит",
+          "type": "word"
+        },
+        {
+          "word": "у",
+          "type": "word"
+        },
+        {
+          "word": "них",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "И",
+          "type": "word"
+        },
+        {
+          "word": "голова",
+          "type": "word"
+        },
+        {
+          "word": "болит",
+          "type": "word"
+        },
+        {
+          "word": "у",
+          "type": "word"
+        },
+        {
+          "word": "них",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "И",
+          "type": "word"
+        },
+        {
+          "word": "горлышко",
+          "type": "word"
+        },
+        {
+          "word": "болит",
+          "type": "word"
+        },
+        {
+          "word": ".",
+          "type": "punctuation"
+        }
+      ]
+    },
+    {
+      "title": "33",
+      "content": [
+        {
+          "word": "Они",
+          "type": "word"
+        },
+        {
+          "word": "лежат",
+          "type": "word"
+        },
+        {
+          "word": "и",
+          "type": "word"
+        },
+        {
+          "word": "бредят",
+          "type": "word"
+        },
+        {
+          "word": ":",
+          "type": "punctuation"
+        },
+        {
+          "word": "«",
+          "type": "punctuation"
+        },
+        {
+          "word": "Ну",
+          "type": "word"
+        },
+        {
+          "word": "что",
+          "type": "word"
+        },
+        {
+          "word": "же",
+          "type": "word"
+        },
+        {
+          "word": "он",
+          "type": "word"
+        },
+        {
+          "word": "не",
+          "type": "word"
+        },
+        {
+          "word": "едет",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "Ну",
+          "type": "word"
+        },
+        {
+          "word": "что",
+          "type": "word"
+        },
+        {
+          "word": "же",
+          "type": "word"
+        },
+        {
+          "word": "он",
+          "type": "word"
+        },
+        {
+          "word": "не",
+          "type": "word"
+        },
+        {
+          "word": "едет",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "Доктор",
+          "type": "word"
+        },
+        {
+          "word": "Айболит",
+          "type": "word"
+        },
+        {
+          "word": "?",
+          "type": "punctuation"
+        },
+        {
+          "word": "»",
+          "type": "punctuation"
+        }
+      ]
+    },
+    {
+      "title": "34",
+      "content": [
+        {
+          "word": "А",
+          "type": "word"
+        },
+        {
+          "word": "рядом",
+          "type": "word"
+        },
+        {
+          "word": "прикорнула",
+          "type": "word"
+        },
+        {
+          "word": "Зубастая",
+          "type": "word"
+        },
+        {
+          "word": "акула",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "Зубастая",
+          "type": "word"
+        },
+        {
+          "word": "акула",
+          "type": "word"
+        },
+        {
+          "word": "На",
+          "type": "word"
+        },
+        {
+          "word": "солнышке",
+          "type": "word"
+        },
+        {
+          "word": "лежит",
+          "type": "word"
+        },
+        {
+          "word": ".",
+          "type": "punctuation"
+        }
+      ]
+    },
+    {
+      "title": "35",
+      "content": [
+        {
+          "word": "Ах",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "у",
+          "type": "word"
+        },
+        {
+          "word": "её",
+          "type": "word"
+        },
+        {
+          "word": "малюток",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "У",
+          "type": "word"
+        },
+        {
+          "word": "бедных",
+          "type": "word"
+        },
+        {
+          "word": "акулят",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "Уже",
+          "type": "word"
+        },
+        {
+          "word": "двенадцать",
+          "type": "word"
+        },
+        {
+          "word": "суток",
+          "type": "word"
+        },
+        {
+          "word": "Зубки",
+          "type": "word"
+        },
+        {
+          "word": "болят",
+          "type": "word"
+        },
+        {
+          "word": "!",
+          "type": "punctuation"
+        }
+      ]
+    },
+    {
+      "title": "36",
+      "content": [
+        {
+          "word": "И",
+          "type": "word"
+        },
+        {
+          "word": "вывихнуто",
+          "type": "word"
+        },
+        {
+          "word": "плечико",
+          "type": "word"
+        },
+        {
+          "word": "У",
+          "type": "word"
+        },
+        {
+          "word": "бедного",
+          "type": "word"
+        },
+        {
+          "word": "кузнечика",
+          "type": "word"
+        },
+        {
+          "word": ";",
+          "type": "punctuation"
+        },
+        {
+          "word": "Не",
+          "type": "word"
+        },
+        {
+          "word": "прыгает",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "не",
+          "type": "word"
+        },
+        {
+          "word": "скачет",
+          "type": "word"
+        },
+        {
+          "word": "он",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "А",
+          "type": "word"
+        },
+        {
+          "word": "горько",
+          "type": "word"
+        },
+        {
+          "word": "-",
+          "type": "punctuation"
+        },
+        {
+          "word": "горько",
+          "type": "word"
+        },
+        {
+          "word": "плачет",
+          "type": "word"
+        },
+        {
+          "word": "он",
+          "type": "word"
+        }
+      ]
+    },
+    {
+      "title": "37",
+      "content": [
+        {
+          "word": "И",
+          "type": "word"
+        },
+        {
+          "word": "доктора",
+          "type": "word"
+        },
+        {
+          "word": "зовёт",
+          "type": "word"
+        },
+        {
+          "word": ":",
+          "type": "punctuation"
+        },
+        {
+          "word": "«",
+          "type": "punctuation"
+        },
+        {
+          "word": "О",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "где",
+          "type": "word"
+        },
+        {
+          "word": "же",
+          "type": "word"
+        },
+        {
+          "word": "добрый",
+          "type": "word"
+        },
+        {
+          "word": "доктор",
+          "type": "word"
+        },
+        {
+          "word": "?",
+          "type": "punctuation"
+        },
+        {
+          "word": "Когда",
+          "type": "word"
+        },
+        {
+          "word": "же",
+          "type": "word"
+        },
+        {
+          "word": "он",
+          "type": "word"
+        },
+        {
+          "word": "придёт",
+          "type": "word"
+        },
+        {
+          "word": "?",
+          "type": "punctuation"
+        },
+        {
+          "word": "»",
+          "type": "punctuation"
+        }
+      ]
+    },
+    {
+      "title": "38",
+      "content": [
+        {
+          "word": "Но",
+          "type": "word"
+        },
+        {
+          "word": "вот",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "поглядите",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "какая",
+          "type": "word"
+        },
+        {
+          "word": "-",
+          "type": "punctuation"
+        },
+        {
+          "word": "то",
+          "type": "word"
+        },
+        {
+          "word": "птица",
+          "type": "word"
+        },
+        {
+          "word": "Всё",
+          "type": "word"
+        },
+        {
+          "word": "ближе",
+          "type": "word"
+        },
+        {
+          "word": "и",
+          "type": "word"
+        },
+        {
+          "word": "ближе",
+          "type": "word"
+        },
+        {
+          "word": "по",
+          "type": "word"
+        },
+        {
+          "word": "воздуху",
+          "type": "word"
+        },
+        {
+          "word": "мчится",
+          "type": "word"
+        },
+        {
+          "word": ".",
+          "type": "punctuation"
+        },
+        {
+          "word": "На",
+          "type": "word"
+        },
+        {
+          "word": "птице",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "глядите",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "сидит",
+          "type": "word"
+        },
+        {
+          "word": "Айболит",
+          "type": "word"
+        },
+        {
+          "word": "И",
+          "type": "word"
+        },
+        {
+          "word": "шляпою",
+          "type": "word"
+        },
+        {
+          "word": "машет",
+          "type": "word"
+        },
+        {
+          "word": "и",
+          "type": "word"
+        },
+        {
+          "word": "громко",
+          "type": "word"
+        },
+        {
+          "word": "кричит",
+          "type": "word"
+        },
+        {
+          "word": ":",
+          "type": "punctuation"
+        }
+      ]
+    },
+    {
+      "title": "39",
+      "content": [
+        {
+          "word": "«",
+          "type": "punctuation"
+        },
+        {
+          "word": "Да",
+          "type": "word"
+        },
+        {
+          "word": "здравствует",
+          "type": "word"
+        },
+        {
+          "word": "милая",
+          "type": "word"
+        },
+        {
+          "word": "Африка",
+          "type": "word"
+        },
+        {
+          "word": "!",
+          "type": "punctuation"
+        },
+        {
+          "word": "»",
+          "type": "punctuation"
+        },
+        {
+          "word": "И",
+          "type": "word"
+        },
+        {
+          "word": "рада",
+          "type": "word"
+        },
+        {
+          "word": "и",
+          "type": "word"
+        },
+        {
+          "word": "счастлива",
+          "type": "word"
+        },
+        {
+          "word": "вся",
+          "type": "word"
+        },
+        {
+          "word": "детвора",
+          "type": "word"
+        },
+        {
+          "word": ":",
+          "type": "punctuation"
+        },
+        {
+          "word": "«",
+          "type": "punctuation"
+        },
+        {
+          "word": "Приехал",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "приехал",
+          "type": "word"
+        },
+        {
+          "word": "!",
+          "type": "punctuation"
+        },
+        {
+          "word": "Ура",
+          "type": "word"
+        },
+        {
+          "word": "!",
+          "type": "punctuation"
+        },
+        {
+          "word": "Ура",
+          "type": "word"
+        },
+        {
+          "word": "!",
+          "type": "punctuation"
+        },
+        {
+          "word": "»",
+          "type": "punctuation"
+        }
+      ]
+    },
+    {
+      "title": "40",
+      "content": [
+        {
+          "word": "А",
+          "type": "word"
+        },
+        {
+          "word": "птица",
+          "type": "word"
+        },
+        {
+          "word": "над",
+          "type": "word"
+        },
+        {
+          "word": "ними",
+          "type": "word"
+        },
+        {
+          "word": "кружится",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "А",
+          "type": "word"
+        },
+        {
+          "word": "птица",
+          "type": "word"
+        },
+        {
+          "word": "на",
+          "type": "word"
+        },
+        {
+          "word": "землю",
+          "type": "word"
+        },
+        {
+          "word": "садится",
+          "type": "word"
+        },
+        {
+          "word": ".",
+          "type": "punctuation"
+        },
+        {
+          "word": "И",
+          "type": "word"
+        },
+        {
+          "word": "бежит",
+          "type": "word"
+        },
+        {
+          "word": "Айболит",
+          "type": "word"
+        },
+        {
+          "word": "к",
+          "type": "word"
+        },
+        {
+          "word": "бегемотикам",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "И",
+          "type": "word"
+        },
+        {
+          "word": "хлопает",
+          "type": "word"
+        },
+        {
+          "word": "их",
+          "type": "word"
+        },
+        {
+          "word": "по",
+          "type": "word"
+        },
+        {
+          "word": "животикам",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        }
+      ]
+    },
+    {
+      "title": "41",
+      "content": [
+        {
+          "word": "И",
+          "type": "word"
+        },
+        {
+          "word": "всем",
+          "type": "word"
+        },
+        {
+          "word": "по",
+          "type": "word"
+        },
+        {
+          "word": "порядку",
+          "type": "word"
+        },
+        {
+          "word": "Даёт",
+          "type": "word"
+        },
+        {
+          "word": "шоколадку",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "И",
+          "type": "word"
+        },
+        {
+          "word": "ставит",
+          "type": "word"
+        },
+        {
+          "word": "и",
+          "type": "word"
+        },
+        {
+          "word": "ставит",
+          "type": "word"
+        },
+        {
+          "word": "им",
+          "type": "word"
+        },
+        {
+          "word": "градусники",
+          "type": "word"
+        },
+        {
+          "word": "!",
+          "type": "punctuation"
+        }
+      ]
+    },
+    {
+      "title": "42",
+      "content": [
+        {
+          "word": "И",
+          "type": "word"
+        },
+        {
+          "word": "к",
+          "type": "word"
+        },
+        {
+          "word": "полосатым",
+          "type": "word"
+        },
+        {
+          "word": "Бежит",
+          "type": "word"
+        },
+        {
+          "word": "он",
+          "type": "word"
+        },
+        {
+          "word": "тигрятам",
+          "type": "word"
+        },
+        {
+          "word": ".",
+          "type": "punctuation"
+        },
+        {
+          "word": "И",
+          "type": "word"
+        },
+        {
+          "word": "к",
+          "type": "word"
+        },
+        {
+          "word": "бедным",
+          "type": "word"
+        },
+        {
+          "word": "горбатым",
+          "type": "word"
+        },
+        {
+          "word": "Больным",
+          "type": "word"
+        },
+        {
+          "word": "верблюжатам",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "И",
+          "type": "word"
+        },
+        {
+          "word": "каждого",
+          "type": "word"
+        },
+        {
+          "word": "гоголем",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        }
+      ]
+    },
+    {
+      "title": "43",
+      "content": [
+        {
+          "word": "Каждого",
+          "type": "word"
+        },
+        {
+          "word": "моголем",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "Гоголем",
+          "type": "word"
+        },
+        {
+          "word": "-",
+          "type": "punctuation"
+        },
+        {
+          "word": "моголем",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "Гоголем",
+          "type": "word"
+        },
+        {
+          "word": "-",
+          "type": "punctuation"
+        },
+        {
+          "word": "моголем",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "Гоголем",
+          "type": "word"
+        },
+        {
+          "word": "-",
+          "type": "punctuation"
+        },
+        {
+          "word": "моголем",
+          "type": "word"
+        },
+        {
+          "word": "потчует",
+          "type": "word"
+        },
+        {
+          "word": ".",
+          "type": "punctuation"
+        }
+      ]
+    },
+    {
+      "title": "44",
+      "content": [
+        {
+          "word": "Десять",
+          "type": "word"
+        },
+        {
+          "word": "ночей",
+          "type": "word"
+        },
+        {
+          "word": "Айболит",
+          "type": "word"
+        },
+        {
+          "word": "Не",
+          "type": "word"
+        },
+        {
+          "word": "ест",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "не",
+          "type": "word"
+        },
+        {
+          "word": "пьёт",
+          "type": "word"
+        },
+        {
+          "word": "и",
+          "type": "word"
+        },
+        {
+          "word": "не",
+          "type": "word"
+        },
+        {
+          "word": "спит",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "Десять",
+          "type": "word"
+        },
+        {
+          "word": "ночей",
+          "type": "word"
+        },
+        {
+          "word": "подряд",
+          "type": "word"
+        },
+        {
+          "word": "Он",
+          "type": "word"
+        },
+        {
+          "word": "лечит",
+          "type": "word"
+        },
+        {
+          "word": "несчастных",
+          "type": "word"
+        },
+        {
+          "word": "зверят",
+          "type": "word"
+        },
+        {
+          "word": "И",
+          "type": "word"
+        },
+        {
+          "word": "ставит",
+          "type": "word"
+        },
+        {
+          "word": "и",
+          "type": "word"
+        },
+        {
+          "word": "ставит",
+          "type": "word"
+        },
+        {
+          "word": "им",
+          "type": "word"
+        },
+        {
+          "word": "градусники",
+          "type": "word"
+        },
+        {
+          "word": ".",
+          "type": "punctuation"
+        }
+      ]
+    },
+    {
+      "title": "45",
+      "content": [
+        {
+          "word": "Вот",
+          "type": "word"
+        },
+        {
+          "word": "и",
+          "type": "word"
+        },
+        {
+          "word": "вылечил",
+          "type": "word"
+        },
+        {
+          "word": "он",
+          "type": "word"
+        },
+        {
+          "word": "их",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "Лимпопо",
+          "type": "word"
+        },
+        {
+          "word": "!",
+          "type": "punctuation"
+        },
+        {
+          "word": "Вот",
+          "type": "word"
+        },
+        {
+          "word": "и",
+          "type": "word"
+        },
+        {
+          "word": "вылечил",
+          "type": "word"
+        },
+        {
+          "word": "больных",
+          "type": "word"
+        },
+        {
+          "word": ".",
+          "type": "punctuation"
+        },
+        {
+          "word": "Лимпопо",
+          "type": "word"
+        },
+        {
+          "word": "!",
+          "type": "punctuation"
+        },
+        {
+          "word": "И",
+          "type": "word"
+        },
+        {
+          "word": "пошли",
+          "type": "word"
+        },
+        {
+          "word": "они",
+          "type": "word"
+        },
+        {
+          "word": "смеяться",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "Лимпопо",
+          "type": "word"
+        },
+        {
+          "word": "!",
+          "type": "punctuation"
+        },
+        {
+          "word": "И",
+          "type": "word"
+        },
+        {
+          "word": "плясать",
+          "type": "word"
+        },
+        {
+          "word": "и",
+          "type": "word"
+        },
+        {
+          "word": "баловаться",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "Лимпопо",
+          "type": "word"
+        },
+        {
+          "word": "!",
+          "type": "punctuation"
+        }
+      ]
+    },
+    {
+      "title": "46",
+      "content": [
+        {
+          "word": "И",
+          "type": "word"
+        },
+        {
+          "word": "акула",
+          "type": "word"
+        },
+        {
+          "word": "Каракула",
+          "type": "word"
+        },
+        {
+          "word": "Правым",
+          "type": "word"
+        },
+        {
+          "word": "глазом",
+          "type": "word"
+        },
+        {
+          "word": "подмигнула",
+          "type": "word"
+        },
+        {
+          "word": "И",
+          "type": "word"
+        },
+        {
+          "word": "хохочет",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "и",
+          "type": "word"
+        },
+        {
+          "word": "хохочет",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "Будто",
+          "type": "word"
+        },
+        {
+          "word": "кто",
+          "type": "word"
+        },
+        {
+          "word": "её",
+          "type": "word"
+        },
+        {
+          "word": "щекочет",
+          "type": "word"
+        },
+        {
+          "word": ".",
+          "type": "punctuation"
+        }
+      ]
+    },
+    {
+      "title": "47",
+      "content": [
+        {
+          "word": "А",
+          "type": "word"
+        },
+        {
+          "word": "малютки",
+          "type": "word"
+        },
+        {
+          "word": "бегемотики",
+          "type": "word"
+        },
+        {
+          "word": "Ухватились",
+          "type": "word"
+        },
+        {
+          "word": "за",
+          "type": "word"
+        },
+        {
+          "word": "животики",
+          "type": "word"
+        },
+        {
+          "word": "И",
+          "type": "word"
+        },
+        {
+          "word": "смеются",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "заливаются",
+          "type": "word"
+        },
+        {
+          "word": "—",
+          "type": "punctuation"
+        },
+        {
+          "word": "Так",
+          "type": "word"
+        },
+        {
+          "word": "что",
+          "type": "word"
+        },
+        {
+          "word": "дубы",
+          "type": "word"
+        },
+        {
+          "word": "сотрясаются",
+          "type": "word"
+        },
+        {
+          "word": ".",
+          "type": "punctuation"
+        }
+      ]
+    },
+    {
+      "title": "48",
+      "content": [
+        {
+          "word": "Вот",
+          "type": "word"
+        },
+        {
+          "word": "и",
+          "type": "word"
+        },
+        {
+          "word": "Гиппо",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "вот",
+          "type": "word"
+        },
+        {
+          "word": "и",
+          "type": "word"
+        },
+        {
+          "word": "Попо",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "Гиппо",
+          "type": "word"
+        },
+        {
+          "word": "-",
+          "type": "punctuation"
+        },
+        {
+          "word": "попо",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "Гиппо",
+          "type": "word"
+        },
+        {
+          "word": "-",
+          "type": "punctuation"
+        },
+        {
+          "word": "попо",
+          "type": "word"
+        },
+        {
+          "word": "!",
+          "type": "punctuation"
+        },
+        {
+          "word": "Вот",
+          "type": "word"
+        },
+        {
+          "word": "идёт",
+          "type": "word"
+        },
+        {
+          "word": "Гиппопотам",
+          "type": "word"
+        },
+        {
+          "word": ".",
+          "type": "punctuation"
+        },
+        {
+          "word": "Он",
+          "type": "word"
+        },
+        {
+          "word": "идёт",
+          "type": "word"
+        },
+        {
+          "word": "от",
+          "type": "word"
+        },
+        {
+          "word": "Занзибара",
+          "type": "word"
+        },
+        {
+          "word": ".",
+          "type": "punctuation"
+        }
+      ]
+    },
+    {
+      "title": "49",
+      "content": [
+        {
+          "word": "Он",
+          "type": "word"
+        },
+        {
+          "word": "идёт",
+          "type": "word"
+        },
+        {
+          "word": "к",
+          "type": "word"
+        },
+        {
+          "word": "Килиманджаро",
+          "type": "word"
+        },
+        {
+          "word": "—",
+          "type": "punctuation"
+        },
+        {
+          "word": "И",
+          "type": "word"
+        },
+        {
+          "word": "кричит",
+          "type": "word"
+        },
+        {
+          "word": "он",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "и",
+          "type": "word"
+        },
+        {
+          "word": "поёт",
+          "type": "word"
+        },
+        {
+          "word": "он",
+          "type": "word"
+        },
+        {
+          "word": ":",
+          "type": "punctuation"
+        },
+        {
+          "word": "«",
+          "type": "punctuation"
+        },
+        {
+          "word": "Слава",
+          "type": "word"
+        },
+        {
+          "word": ",",
+          "type": "punctuation"
+        },
+        {
+          "word": "слава",
+          "type": "word"
+        },
+        {
+          "word": "Айболиту",
+          "type": "word"
+        },
+        {
+          "word": "!",
+          "type": "punctuation"
+        },
+        {
+          "word": "Слава",
+          "type": "word"
+        },
+        {
+          "word": "добрым",
+          "type": "word"
+        },
+        {
+          "word": "докторам",
+          "type": "word"
+        },
+        {
+          "word": "!",
+          "type": "punctuation"
+        },
+        {
+          "word": "»",
+          "type": "punctuation"
+        }
+      ]
+    }
+  ]
+}
