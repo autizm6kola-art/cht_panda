@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cht_panda/static/css/main.dd6c0fec.css",
+    "main.js": "/cht_panda/static/js/main.43736c8b.js",
+    "static/js/453.d37bcb50.chunk.js": "/cht_panda/static/js/453.d37bcb50.chunk.js",
+    "index.html": "/cht_panda/index.html",
+    "main.dd6c0fec.css.map": "/cht_panda/static/css/main.dd6c0fec.css.map",
+    "main.43736c8b.js.map": "/cht_panda/static/js/main.43736c8b.js.map",
+    "453.d37bcb50.chunk.js.map": "/cht_panda/static/js/453.d37bcb50.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd6c0fec.css",
+    "static/js/main.43736c8b.js"
+  ]
+}
