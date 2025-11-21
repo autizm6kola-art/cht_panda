@@ -132,7 +132,10 @@ export default function ReadingTask({ task }) {
   };
 
   return (
-    <div className={styles.container}>
+    <div className={`${styles.container} ${
+      highlightedIndexes.length > 0 ? styles.completed : ""
+    }`}
+  >
       <div className={styles.row}>
 
       <SentenceDisplay content={content} highlightedIndexes={highlightedIndexes} />

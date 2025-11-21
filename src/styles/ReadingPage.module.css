@@ -37,6 +37,13 @@
   text-align: center;
 }
 
+.completed {
+  background-color: #c8f7c5;  /* мягкий зелёный фон */
+  border-left: 6px solid #3cb371;
+  transition: background-color 0.3s ease;
+}
+
+
 .sentence {
   font-size: 22px;
   line-height: 1.4;
