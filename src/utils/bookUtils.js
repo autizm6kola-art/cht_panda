@@ -1,35 +1,4 @@
-// // src/utils/bookUtils.js
 
-// // Загружаем JSON с предложениями
-// export const loadBook = async () => {
-//   const response = await fetch("/data/book.json");
-//   if (!response.ok) {
-//     throw new Error("Не удалось загрузить книгу");
-//   }
-//   return await response.json();
-// };
-
-// // Получаем следующее предложение
-// export const getNextSentence = (book, lastId = null) => {
-//   if (lastId == null) {
-//     return book[0];
-//   }
-//   const index = book.findIndex(item => item.id === lastId);
-//   return book[index + 1] || null;
-// };
-
-// // Сохраняем прогресс в localStorage
-// export const saveProgress = (id) => {
-//   localStorage.setItem("readingProgress", id.toString());
-// };
-
-// // Загружаем прогресс
-// export const loadProgress = () => {
-//   const saved = localStorage.getItem("readingProgress");
-//   return saved ? parseInt(saved) : null;
-// };
-
-// src/utils/bookUtils.js
 
 // Загружаем JSON с книгой
 export const loadBook = async () => {
