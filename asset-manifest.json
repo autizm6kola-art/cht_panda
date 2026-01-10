@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/cht_panda/static/css/main.e5601b07.css",
-    "main.js": "/cht_panda/static/js/main.eb96b5f9.js",
+    "main.js": "/cht_panda/static/js/main.d5e47594.js",
     "static/js/453.d37bcb50.chunk.js": "/cht_panda/static/js/453.d37bcb50.chunk.js",
     "index.html": "/cht_panda/index.html",
     "main.e5601b07.css.map": "/cht_panda/static/css/main.e5601b07.css.map",
-    "main.eb96b5f9.js.map": "/cht_panda/static/js/main.eb96b5f9.js.map",
+    "main.d5e47594.js.map": "/cht_panda/static/js/main.d5e47594.js.map",
     "453.d37bcb50.chunk.js.map": "/cht_panda/static/js/453.d37bcb50.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e5601b07.css",
-    "static/js/main.eb96b5f9.js"
+    "static/js/main.d5e47594.js"
   ]
 }
