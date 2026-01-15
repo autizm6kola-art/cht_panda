@@ -16,6 +16,7 @@
 // export default function ReadingTask({ task }) {
 //   const [isListening, setIsListening] = useState(false);
 //   const [highlightedIndexes, setHighlightedIndexes] = useState([]);
+//   const [isStopped, setIsStopped] = useState(false); // ⬅️ ОТВЕЧАЕТ ЗА ЗЕЛЁНЫЙ ФОН
 //   const recognizerRef = useRef(null);
 
 //   // 🔴 Запись
@@ -122,32 +123,32 @@
 //   }
 
 //   const handleStart = () => {
+//     setIsStopped(false); // ⬅️ при старте чтения фон НЕ зелёный
 //     setIsListening(true);
-//     startRecording(); // ⬅️ запись
+//     startRecording();
 //   };
 
 //   const handleStop = () => {
 //     setIsListening(false);
-//     stopRecording(); // ⬅️ сохранить файл
+//     setIsStopped(true); // ⬅️ фон станет зелёным только здесь
+//     stopRecording();
 //   };
 
 //   return (
-//     <div className={`${styles.container} ${
-//       highlightedIndexes.length > 0 ? styles.completed : ""
-//     }`}
-//   >
+//     <div
+//       className={`${styles.container} ${
+//         isStopped ? styles.completed : ""
+//       }`}
+//     >
 //       <div className={styles.row}>
+//         <SentenceDisplay content={content} highlightedIndexes={highlightedIndexes} />
 
-//       <SentenceDisplay content={content} highlightedIndexes={highlightedIndexes} />
 //         <button
 //           className={styles.button}
 //           onClick={handleStart}
 //           disabled={isListening}
 //           title="Начать читать"
 //         >
-//           {/* <svg width="20" height="20" viewBox="0 0 20 20" fill="#000" xmlns="http://www.w3.org/2000/svg">
-//     <polygon points="5,3 15,10 5,17" />
-//   </svg> */}
 //           ▶️
 //         </button>
 
@@ -157,19 +158,17 @@
 //           disabled={!isListening}
 //           title="Стоп"
 //         >
-//           {/* <svg width="20" height="20" viewBox="0 0 20 20" fill="#000" xmlns="http://www.w3.org/2000/svg">
-//     <rect x="5" y="5" width="20" height="20" />
-//   </svg> */}
 //           ⏹️
 //         </button>
 //       </div>
-
-//       {/* <p>Распознано слов: {highlightedIndexes.length} из {totalWords}</p> */}
 //     </div>
 //   );
 // }
 
-import React, { useState, useEffect, useRef } from "react";
+
+
+
+import React, { useState, useEffect, useRef, useCallback, useMemo } from "react";
 import styles from '../styles/ReadingPage.module.css';
 import SentenceDisplay from "./SentenceDisplay";
 import { saveCorrectInput, getUserInputs, saveUserInputs } from "../utils/storage";
@@ -178,7 +177,7 @@ import { createSpeechRecognizer } from "../utils/bookUtils";
 function normalizeToArray(text) {
   return text
     .toLowerCase()
-    .replace(/[.,!?;:«»"()\r\n\-]/g, "")
+    .replace(/[.,!?;:«»"()\r\n]/g, "")  // Убрали лишнее экранирование
     .split(/\s+/)
     .filter(Boolean);
 }
@@ -193,7 +192,8 @@ export default function ReadingTask({ task }) {
   const mediaRecorderRef = useRef(null);
   const recordedChunks = useRef([]);
 
-  const content = task.content || [];
+  const content = useMemo(() => task.content || [], [task.content]); // Мемоизация content, чтобы избежать лишних пересозданий
+
   const totalWords = content.filter(item => item.type === "word").length;
 
   useEffect(() => {
@@ -203,6 +203,35 @@ export default function ReadingTask({ task }) {
     }
   }, [task.id]);
 
+  // Оборачиваем handleResult в useCallback
+  const handleResult = useCallback((transcript) => {
+    const spokenTokens = normalizeToArray(transcript);
+    const availableTokens = [...spokenTokens];
+
+    const newMatchedIndexes = [];
+
+    content.forEach((item, index) => {
+      if (item.type !== "word") return;
+      const clean = item.word.toLowerCase().replace(/[.,!?;:«»"()\r\n]/g, "");
+      const foundIndex = availableTokens.findIndex(tok => tok === clean);
+      if (foundIndex !== -1) {
+        newMatchedIndexes.push(index);
+        availableTokens.splice(foundIndex, 1);
+      }
+    });
+
+    setHighlightedIndexes(newMatchedIndexes);
+    saveUserInputs(task.id, [newMatchedIndexes]);
+
+    if (newMatchedIndexes.length >= totalWords / 2) {
+      saveCorrectInput(task.id, 0);
+    }
+
+    // 👉 Событие обновления прогресса
+    window.dispatchEvent(new Event('progressUpdated'));
+  }, [content, task.id, totalWords]);  // Зависимости: content, task.id, totalWords
+
+  // Добавляем handleResult в зависимости useEffect
   useEffect(() => {
     if (isListening && !recognizerRef.current) {
       recognizerRef.current = createSpeechRecognizer({
@@ -223,7 +252,7 @@ export default function ReadingTask({ task }) {
         recognizerRef.current = null;
       }
     };
-  }, [isListening]);
+  }, [isListening, handleResult]);  // Добавили handleResult
 
   // 🔴 Начать запись
   const startRecording = async () => {
@@ -268,30 +297,6 @@ export default function ReadingTask({ task }) {
     }
   };
 
-  function handleResult(transcript) {
-    const spokenTokens = normalizeToArray(transcript);
-    const availableTokens = [...spokenTokens];
-
-    const newMatchedIndexes = [];
-
-    content.forEach((item, index) => {
-      if (item.type !== "word") return;
-      const clean = item.word.toLowerCase().replace(/[.,!?;:«»"()\r\n\-]/g, "");
-      const foundIndex = availableTokens.findIndex(tok => tok === clean);
-      if (foundIndex !== -1) {
-        newMatchedIndexes.push(index);
-        availableTokens.splice(foundIndex, 1);
-      }
-    });
-
-    setHighlightedIndexes(newMatchedIndexes);
-    saveUserInputs(task.id, [newMatchedIndexes]);
-
-    if (newMatchedIndexes.length >= totalWords / 2) {
-      saveCorrectInput(task.id, 0);
-    }
-  }
-
   const handleStart = () => {
     setIsStopped(false); // ⬅️ при старте чтения фон НЕ зелёный
     setIsListening(true);
@@ -306,9 +311,7 @@ export default function ReadingTask({ task }) {
 
   return (
     <div
-      className={`${styles.container} ${
-        isStopped ? styles.completed : ""
-      }`}
+      className={`${styles.container} ${isStopped ? styles.completed : ""}`}
     >
       <div className={styles.row}>
         <SentenceDisplay content={content} highlightedIndexes={highlightedIndexes} />
