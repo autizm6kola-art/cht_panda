@@ -191,7 +191,7 @@ function MenuPage({ allTasks, onSelectRange }) {
   return (
     <div className="menu-container">
       <BackButton />
-      <h1 className="menu-title">Айболит.</h1>
+      <h1 className="menu-title">ПАНДА.</h1>
 
       <ProgressBar correct={correctWordsCount} total={totalWords} />
 
