@@ -24,7 +24,7 @@
 /* Новое правило для общего ряда */
 .row {
   display: grid;
-  grid-template-columns: 80% 10% 10%;
+  grid-template-columns: 90% 10%;
   gap: 1px; /* немного пространства между элементами */
   align-items: center; /* вертикальное выравнивание */
 }
