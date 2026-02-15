@@ -20,7 +20,7 @@ function DailyProgress() {
 
   return (
     <p style={{ marginTop: "10px", fontWeight: "bold" }}>
-      📅 Сегодня: {todayCount}
+      Сегодня: {todayCount}
     </p>
   );
 }
