@@ -7,6 +7,8 @@ import BackButton from './BackButton';
 import ProgressBar from './ProgressBar';
 import '../styles/menuPage.css';
 import BackupControls from './BackupControls';
+import DailyProgress from "./DailyProgress";
+
 
 function MenuPage({ allTasks, onSelectRange }) {
   const [correctWordsCount, setCorrectWordsCount] = useState(0);
@@ -80,6 +82,8 @@ function MenuPage({ allTasks, onSelectRange }) {
     <div className="menu-container">
       <BackButton />
       <h1 className="menu-title">ПАНДА.</h1>
+
+      <DailyProgress />
 
       <ProgressBar correct={correctWordsCount} total={totalWords} />
 
