@@ -1,33 +1,39 @@
-const DAILY_STATS_KEY = "dailyReadStats";
+const BASE_KEY = "dailyReadStats";
+
+function getStorageKey(appId) {
+  return `${BASE_KEY}_${appId}`;
+}
 
 // Получить все данные
-export function getDailyStats() {
-  const raw = localStorage.getItem(DAILY_STATS_KEY);
+export function getDailyStats(appId) {
+  const raw = localStorage.getItem(getStorageKey(appId));
   return raw ? JSON.parse(raw) : {};
 }
 
-// Получить сегодняшнюю дату в локальном формате
+// Локальная дата
 export function getTodayKey() {
   const today = new Date();
-  return today.toLocaleDateString("sv-SE"); 
-  // формат YYYY-MM-DD (идеальный для ключа)
+  return today.toLocaleDateString("sv-SE");
 }
 
-// Увеличить счётчик сегодняшнего дня
-export function addTodayWords(count) {
+// Увеличить счётчик
+export function addTodayWords(appId, count) {
   if (!count || count <= 0) return;
 
-  const stats = getDailyStats();
+  const stats = getDailyStats(appId);
   const todayKey = getTodayKey();
 
   stats[todayKey] = (stats[todayKey] || 0) + count;
 
-  localStorage.setItem(DAILY_STATS_KEY, JSON.stringify(stats));
+  localStorage.setItem(
+    getStorageKey(appId),
+    JSON.stringify(stats)
+  );
 }
 
-// Получить сколько слов прочитано сегодня
-export function getTodayCount() {
-  const stats = getDailyStats();
+// Получить сегодняшнее количество
+export function getTodayCount(appId) {
+  const stats = getDailyStats(appId);
   const todayKey = getTodayKey();
   return stats[todayKey] || 0;
 }
