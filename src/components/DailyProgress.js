@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { getTodayCount } from "../utils/dailyStats";
 
-const APP_ID = "panda"; // 👈 то же самое имя
+const APP_ID = "chtenie_panda"; // 👈 то же самое имя
 
 function DailyProgress() {
   const [todayCount, setTodayCount] = useState(0);
